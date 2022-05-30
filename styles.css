@@ -89,7 +89,7 @@
     margin-top: -63px;
   }
   .contentbox-img{
-    background: url('./static/marketing-img3.jpg');
+    background: url('marketing-img3.jpg');
     background-size: cover;
     background-position-y: -14rem;
     margin-top: 5rem;
